@@ -1,13 +1,13 @@
 # Gaming-Arcade
-Python Project
+Python Project:
 This is one of my projects that I made for the course end assesment in a Python course.
 
 
-It includes 6 games:  Tic Tac Toe
-                      BlackJack
-                      Minion
-                      Handcricket
-                      Rock Paper Scissors
+It includes 6 games:  Tic Tac Toe,
+                      BlackJack,
+                      Minion,
+                      Handcricket,
+                      Rock Paper Scissors,
                       Pong
                       
                       
