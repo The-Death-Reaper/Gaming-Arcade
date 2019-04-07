@@ -11,4 +11,4 @@ It includes 6 games:  Tic Tac Toe,
                       Pong
                       
                       
-Download all .py files and run the Main.py file to enter the Gaming Arcade of the Century.                      
+Download all .py files and run the main_menu.py file to enter the Gaming Arcade of the Century.                      
